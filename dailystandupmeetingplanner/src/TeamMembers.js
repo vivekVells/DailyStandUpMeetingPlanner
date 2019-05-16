@@ -45,7 +45,7 @@ class TeamMembers extends React.Component {
             <React.Fragment>
                 <div style={{paddingLeft: 20, paddingRight: 20}}>
                     <Button variant="outlined" color="primary" onClick={this.handleOnClick}>
-                    Add/Modify Team Members
+                        Add/Modify Team Members
                     </Button>
                     {
                         this.state.showDialog 
