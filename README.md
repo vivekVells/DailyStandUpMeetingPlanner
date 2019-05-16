@@ -25,7 +25,7 @@
 - on key reset of timers, summary
 - mvp2.0 (have to draft)
 
-## Use of this app
+## Features planned for this app
 - Use as time counter during the daily stand up meeting
 - Select random teammember to start the meeting
 - First person to start meeting - randomly select
@@ -42,6 +42,9 @@
       - play any notification sound if time limit crossed
 - Data Collection
   - to have a statistical or Visual insight over the number of hours spent per day or n number of units (days,weeks,months, so on) 
+- Synergy with outlook or such platform meetings
+- Provide in-depth data insight over the meeting meta data
+- Real time automatic transcripts generation (individual voices should be recognized and should be transcripted accordingly.)
 
 ## Wireframe
 ![](https://github.com/vivekVells/DailyStandUpMeetingPlanner/blob/develop/demo/wireframes/ver1.0%20and%20ver2.0%20-%20wireframe.png)
