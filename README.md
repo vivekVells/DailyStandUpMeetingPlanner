@@ -11,7 +11,8 @@
 ## Note:
 - **Random Thought App Develop Challenge** - challenge logic: think about something you want to build; irrespective of the time frame or any criteria start building it.
 - started: May 16, 2019 12:08AM || felt very excited on this one as I am doing this on shared live coding - kind of a trial run for me to get familiarized with live code creation streaming - [my LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:6534724589958770688/)
-
+- [App Demo](https://github.com/vivekVells/DailyStandUpMeetingPlanner/tree/develop/demo)
+- [Wireframes](https://github.com/vivekVells/DailyStandUpMeetingPlanner/tree/develop/demo/wireframes)
 
 ## MVPs 
 - v1.0 - [Basic Teammembers inclusion, random member selection, Timer Counter](https://github.com/vivekVells/DailyStandUpMeetingPlanner/projects/1) - almost completed 
@@ -41,6 +42,9 @@
       - play any notification sound if time limit crossed
 - Data Collection
   - to have a statistical or Visual insight over the number of hours spent per day or n number of units (days,weeks,months, so on) 
+
+## Wireframe
+![](https://github.com/vivekVells/DailyStandUpMeetingPlanner/blob/develop/demo/wireframes/ver1.0%20and%20ver2.0%20-%20wireframe.png)
 
 ## DEMO
 ### v2.0 - Basic Meeting Timer logic implementation & Team Members inclusion & random member generation
