@@ -24,3 +24,11 @@ Daily Stand up Meeting Planner for professionals in workspace. Time Keeping, Ran
       - play any notification sound if time limit crossed
 - Data Collection
   - to have a statistical or Visual insight over the number of hours spent per day or n number of units (days,weeks,months, so on) 
+
+# DEMO
+## v1.0 - Team Members inclusion & random member generation
+![](https://github.com/vivekVells/DailyStandUpMeetingPlanner/blob/develop/demo/v1.0/MVP%20v1.0%20-%20member%20inclusion%20and%20random%20member%20generation.gif)
+
+![Home Page](https://github.com/vivekVells/DailyStandUpMeetingPlanner/blob/develop/demo/v1.0/v1.0%20-%20Home%20page.png)
+![Adding Team Members](https://github.com/vivekVells/DailyStandUpMeetingPlanner/blob/develop/demo/v1.0/v1.0%20-%20adding%20team%20members.png)
+![Generation of n team members randomly](https://github.com/vivekVells/DailyStandUpMeetingPlanner/blob/develop/demo/v1.0/v1.0%20-%20randomly%20generating%20team%20members.png)
