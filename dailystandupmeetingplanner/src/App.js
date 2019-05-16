@@ -1,16 +1,22 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import TeamMembers from './TeamMembers';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <h1>Welcome To Daily Stand Up Meeting Planner</h1>
-        <img src={logo} className="App-logo" alt="logo" />
-      </header>
-    </div>
-  );
+class App extends React.Component {
+  render() {
+    const basicInfo = (
+      <div className="App">
+          <h1>Welcome To Daily Stand Up Meeting Planner</h1>
+      </div>
+    )
+    return (
+      <React.Fragment>
+        {basicInfo}
+        <TeamMembers
+        />        
+      </React.Fragment>
+    );
+  }
 }
 
 export default App;
