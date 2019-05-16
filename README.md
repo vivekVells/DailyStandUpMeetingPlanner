@@ -10,7 +10,7 @@
 
 ## Note:
 - **Random Thought App Develop Challenge** - challenge logic: think about something you want to build; irrespective of the time frame or any criteria start building it.
-- started: May 16, 2019 12:08AM || ended: May 16, 2019 5:31AM || felt very excited on this one as I am doing this on shared live coding - kind of a trial run for me to get familiarized with live code creation streaming - [LinkedIn Post of mine](https://www.linkedin.com/feed/update/urn:li:activity:6534724589958770688/)
+- started: May 16, 2019 12:08AM || felt very excited on this one as I am doing this on shared live coding - kind of a trial run for me to get familiarized with live code creation streaming - [my LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:6534724589958770688/)
 
 
 ## MVPs 
