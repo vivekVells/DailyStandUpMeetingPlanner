@@ -10,22 +10,21 @@ class RandomMembers extends React.Component {
         }
     }
 
-    randomArrayGen = (arr, count) => {
-        let _arr = [...arr];
-        return [...Array(count)].map(()=> _arr.splice(Math.floor(Math.random() * _arr.length), 1)[0]); 
-    }
+    // randomArrayGen = (arr, count) => {
+    //     let _arr = [...arr];
+    //     return [...Array(count)].map(()=> _arr.splice(Math.floor(Math.random() * _arr.length), 1)[0]); 
+    // }
 
     generateRandomMembers = () => {
         let currentTeammembers = this.props.currentTeammembers;
         
-        // let currentRandomMembersList = []
-        // for(let i=0; i<this.state.totalrandommembers; i++) {
-        //     currentRandomMembersList.push(currentTeammembers[Math.floor(Math.random()*currentTeammembers.length)])
-
-        // }
-        // this.setState({randomMembersList: currentRandomMembersList})
+        let currentRandomMembersList = []
+        for(let i=0; i<this.state.totalrandommembers; i++) {
+            currentRandomMembersList.push(currentTeammembers[Math.floor(Math.random()*currentTeammembers.length)])
+        }
+        this.setState({randomMembersList: currentRandomMembersList})
         
-        this.setState({randomMembersList: this.randomArrayGen(currentTeammembers, this.state.totalrandommembers)})
+        // this.setState({randomMembersList: this.randomArrayGen(currentTeammembers, this.state.totalrandommembers)})
     }
 
     render() {
